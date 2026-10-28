@@ -1,0 +1,9 @@
+a{
+  color: darkorange;
+  background: #fff;
+  font-size:25px;
+  font-family:monospace;
+}
+a:hover{
+    background: rgb(166,175,255);
+}
